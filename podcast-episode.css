@@ -1,1 +1,4 @@
-color: #ff0000 !important;
+h1.pa-hero {
+  font-size: 3vw;
+  color: #ff0000 !important;
+}
